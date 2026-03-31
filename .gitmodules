@@ -13,3 +13,9 @@
 [submodule "SPIRV-Headers"]
 	path = SPIRV-Headers
 	url = https://github.com/KhronosGroup/SPIRV-Headers
+[submodule "hip_dummy"]
+	path = hip_dummy
+	url = https://github.com/water-chika/hip_dummy
+[submodule "map_file"]
+	path = map_file
+	url = https://github.com/water-chika/map_file
