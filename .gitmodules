@@ -1,0 +1,15 @@
+[submodule "constexpr_map"]
+	path = constexpr_map
+	url = https://github.com/water-chika/constexpr_map
+[submodule "cpp_helper"]
+	path = cpp_helper
+	url = https://github.com/water-chika/cpp_helper
+[submodule "spirv_parser"]
+	path = spirv_parser
+	url = https://github.com/water-chika/spirv_parser
+[submodule "vulkan_layer"]
+	path = vulkan_layer
+	url = https://github.com/water-chika/vulkan_layer
+[submodule "SPIRV-Headers"]
+	path = SPIRV-Headers
+	url = https://github.com/KhronosGroup/SPIRV-Headers
