@@ -19,3 +19,6 @@
 [submodule "map_file"]
 	path = map_file
 	url = https://github.com/water-chika/map_file
+[submodule "win32_helper"]
+	path = win32_helper
+	url = https://github.com/water-chika/win32_helper
