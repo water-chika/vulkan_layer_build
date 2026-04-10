@@ -22,3 +22,6 @@
 [submodule "win32_helper"]
 	path = win32_helper
 	url = https://github.com/water-chika/win32_helper
+[submodule "Vulkan-Headers"]
+	path = Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers
